@@ -14,13 +14,7 @@
   * [Market Funding with Blockchain](overview/dapps/market-funding-with-blockchain.md)
   * [Dividen Smart Contract](overview/dapps/dividen-smart-contract.md)
 
-## Product Guides
+## Connect With Us
 
-* [📪 Contact Us](product-guides/contact-us.md)
-* [📎 Our Team](product-guides/our-team.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [📪 Contact Us](connect-with-us/contact-us.md)
+* [📎 Our Team](connect-with-us/our-team.md)
