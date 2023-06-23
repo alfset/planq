@@ -1,45 +1,24 @@
-# 👋 Welcome to A Product
+---
+cover: .gitbook/assets/welcome little one! (2).png
+coverY: 0
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# Comunity Node
 
-## Overview
+Community Node is a dynamic and forward-thinking Blockchain organization based in Surabaya, Indonesia. we run blockchain validator Node since 2022, we have been dedicated to promoting the adoption, education, and innovation of Blockchain technology within our local community.
 
-Here are a couple of example overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+## RoadMap
 
-## Quick links
+Our roadmap represents a clear vision and a structured approach towards achieving our goals as a blockchain organization. Through education, collaboration, use case development, pilot projects, scaling, and continuous research and development, we aim to make a lasting impact on the blockchain ecosystem. By building a strong foundation driven by Comunity, fostering partnerships, and embracing emerging technologies, we are confident in our ability to shape the future and drive the widespread adoption of blockchain technology. Together, we will create a more decentralized, transparent, and equitable world for generations to come.
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
 
-## Get Started
+Our team has been working tirelessly to create a revolutionary crowdfunding platform powered by blockchain technology. With these dapps, we aim to redefine the way projects are funded, empowering creators and revolutionizing the crowdfunding landscape.
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+\
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}

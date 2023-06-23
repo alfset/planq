@@ -1,24 +1,26 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Comunity Node](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [What we do](overview/what-we-do.md)
+* [Dapps](overview/dapps/README.md)
+  * [CrowdFunding Dapps](overview/dapps/crowdfunding-dapps.md)
+  * [NFT Market Place](overview/dapps/nft-market-place.md)
+  * [IBC Staking](overview/dapps/ibc-staking.md)
+  * [Dex Dapps](overview/dapps/dex-dapps.md)
+  * [P2P Smart Contract](overview/dapps/p2p-smart-contract.md)
+  * [Market Funding with Blockchain](overview/dapps/market-funding-with-blockchain.md)
+  * [Dividen Smart Contract](overview/dapps/dividen-smart-contract.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Contact Us](product-guides/contact-us.md)
+* [📎 Our Team](product-guides/our-team.md)
 
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)

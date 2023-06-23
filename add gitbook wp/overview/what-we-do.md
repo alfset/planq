@@ -1,11 +1,8 @@
-# 💡 What we do
+# What we do
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+Activities:
 
-## Video overview
-
-Got 2 minutes? Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+1. At Comunity Node, we are passionate about developing decentralized applications (DApps) that harness the power of blockchain technology. Our mission is to empower individuals and businesses to leverage the benefits of DApps and unlock new possibilities for innovation and efficiency.
+2. Community Support: We offer support and guidance to individuals and startups venturing into the Blockchain space. Through mentorship programs and incubation initiatives, we assist in nurturing and scaling promising Blockchain projects, contributing to the growth of the local ecosystem.
+3. Research and Advocacy: We actively engage in research activities, studying the latest advancements and emerging trends in Blockchain technology. Additionally, we collaborate with local institutions and authorities to advocate for favorable regulations and policies that promote the adoption of Blockchain and its associated benefits.
+4. As an organization deeply committed to the advancement of blockchain technology, we have embraced the role of a POS validator in multiple blockchain projects

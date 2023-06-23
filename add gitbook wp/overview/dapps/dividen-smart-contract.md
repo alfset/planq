@@ -1,0 +1,3 @@
+# Dividen Smart Contract
+
+## **SOON**
