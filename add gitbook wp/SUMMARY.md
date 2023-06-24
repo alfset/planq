@@ -6,7 +6,8 @@
 
 * [What we do](overview/what-we-do.md)
 * [Dapps](overview/dapps/README.md)
-  * [CrowdFunding Dapps](overview/dapps/crowdfunding-dapps.md)
+  * [CrowdFunding Dapps](overview/dapps/crowdfunding-dapps/README.md)
+    * [Crowdfunding DApps: Empowering the Future of Fundraising](overview/dapps/crowdfunding-dapps/crowdfunding-dapps-empowering-the-future-of-fundraising.md)
   * [NFT Market Place](overview/dapps/nft-market-place.md)
   * [IBC Staking](overview/dapps/ibc-staking.md)
   * [Dex Dapps](overview/dapps/dex-dapps.md)
