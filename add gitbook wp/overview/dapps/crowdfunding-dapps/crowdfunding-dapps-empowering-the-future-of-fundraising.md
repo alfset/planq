@@ -61,6 +61,6 @@ _**commision will be send to wallet deployer to filling pool on planq Network af
 
 _**Break down of Token Investment**_
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 we aims to disrupt the traditional crowdfunding industry by offering a decentralized and innovative solution that empowers project creators and backers. By leveraging blockchain technology, our crowdfunding DApp will provide transparency, security, and efficiency, revolutionizing the way fundraising campaigns are conducted. With a strong team, strategic marketing, and a user-centric approach, we are poised to become a leading player in
